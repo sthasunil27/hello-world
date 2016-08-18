@@ -1,2 +1,2 @@
 # hello-world
-Just another reprository
+Hello Git users i am new to Github.
